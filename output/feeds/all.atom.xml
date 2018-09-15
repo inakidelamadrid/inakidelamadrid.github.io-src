@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Borealsummit</title><link href="http://inakidelamadrid.github.io/" rel="alternate"></link><link href="http://inakidelamadrid.github.io/feeds/all.atom.xml" rel="self"></link><id>http://inakidelamadrid.github.io/</id><updated>2018-09-15T13:59:14-05:00</updated><entry><title>About me</title><link href="http://inakidelamadrid.github.io/about-me.html" rel="alternate"></link><published>2018-09-15T13:59:14-05:00</published><updated>2018-09-15T13:59:14-05:00</updated><author><name>Ignacio De La Madrid</name></author><id>tag:inakidelamadrid.github.io,2018-09-15:/about-me.html</id><summary type="html">&lt;p&gt;Short description of my experience as a web developer&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hello, if you are in this page, is because you're interested in my work as a web developer.&lt;/p&gt;
+&lt;p&gt;Well, I can tell you a lot of shit but let's talk first about my skills.&lt;/p&gt;
+&lt;h3&gt;Python&lt;/h3&gt;
+&lt;p&gt;Well, I looove python. I think I have grasped more about Python's lingo in 4 years than what I did in Ruby.
+I think I love its simplicity and that there's only one way to do things (Zeeeeeen) . Seriously, this helps to finish the constant brogrammer's battle whether a piece of code "looks" good or not.&lt;/p&gt;
+&lt;p&gt;And if you are wondering what lingo I am talking about and that I recommend to master in order to become proficient in Python, I can recall some&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Decorator functions&lt;/li&gt;
+&lt;li&gt;Iterators&lt;/li&gt;
+&lt;li&gt;Generators (Iterators for practical people)&lt;/li&gt;
+&lt;li&gt;List comprehensions&lt;/li&gt;
+&lt;li&gt;Special datatypes such as tuples (well, it's not the same &lt;code&gt;('a')&lt;/code&gt; than &lt;code&gt;('a',)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;You got to understand the &lt;em&gt;args, and the &lt;/em&gt;*kwargs&lt;/li&gt;
+&lt;li&gt;Multiple inheritance (OOP)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you grasp these concepts , plus a little bit of metaprogramming and introspection (hi &lt;code&gt;getattr&lt;/code&gt;, &lt;code&gt;setattr&lt;/code&gt;
+, &lt;code&gt;hasattr&lt;/code&gt;)  believe me , you'll get a loooooot of power.&lt;/p&gt;
+&lt;h3&gt;Django&lt;/h3&gt;
+&lt;p&gt;I loooove Django (huh, seriously dude, again with your love...sigh). Coming from the "magic" of Ruby On Rails, I thank Python/Django for not hiding away the HTTP protocol details of the web. Since I started programming Py/Dj I think I became aware of all the intricacies going on with the request/response HTTP cycle on a web framework:&lt;/p&gt;
+&lt;p&gt;Only then, I was able to grasp the wiring, from outside/inside of 
+- Web Servers
+- WSGI
+- Application/Servers
+- Routing
+- Views (Called controllers by rails people)
+- View Decorators ( this things are sooo awesome, more than rails' before/after filters)
+- Templates&lt;/p&gt;
+&lt;p&gt;Hey , and I forgot the middleware!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Web Servers&lt;/li&gt;
+&lt;li&gt;WSGI&lt;/li&gt;
+&lt;li&gt;Application/Servers&lt;/li&gt;
+&lt;li&gt;Middleware!&lt;/li&gt;
+&lt;li&gt;Routing&lt;/li&gt;
+&lt;li&gt;Views (Called controllers by rails people)&lt;/li&gt;
+&lt;li&gt;View Decorators ( this things are sooo awesome, more than rails' before/after filters)&lt;/li&gt;
+&lt;li&gt;Templates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;DEVOPS&lt;/h3&gt;
+&lt;p&gt;I have some experience in using nginx, gunicorn, supevisorcontrol, systemd and deploy scripts using Python's Fabric.&lt;/p&gt;
+&lt;h3&gt;Databases&lt;/h3&gt;
+&lt;p&gt;My big chunk of experience here is with relational databases, specially PostgreSQL (But, I am not saying that I dislike working with you , Mongo...)&lt;/p&gt;
+&lt;h3&gt;Tools&lt;/h3&gt;
+&lt;p&gt;VIM, Gitkraken , Markdown editors, Dash (documentation), Postman, and some others are the tools I use to get my day done on programming.&lt;/p&gt;
+&lt;h1&gt;Experience&lt;/h1&gt;
+&lt;p&gt;Started as a Ruby developer, but I can call myself now a Django Developer (with high pride 😃)&lt;/p&gt;
+&lt;p&gt;I started working with Django on 2014 on personal projects and then professionally in 2015. &lt;/p&gt;
+&lt;p&gt;I would love to tell you my experience with detail but I am craving to start writing some technical stuff right now, so you can see that on my linkedin (unless you came from there in which case you might have already an idea of what I've done. If not, you can check &lt;a href="https://www.linkedin.com/in/ignacio-de-la-madrid-6bb25629"&gt;me out&lt;/a&gt;  ) &lt;/p&gt;</content><category term="about"></category><category term="me"></category></entry></feed>
